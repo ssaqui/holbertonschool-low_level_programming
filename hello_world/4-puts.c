@@ -1,1 +1,3 @@
-gcc puts "Programming is like building a multilingual puzzle"
+gcc
+-o
+puts "Programming is like building a multilingual puzzle"
